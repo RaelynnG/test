@@ -15,4 +15,7 @@ System.out.println("Hello world");
 System.out.println("Ben");
 
 System.out.println(a + b)
+
+System.out.println("THIS IS AN UPDATE TO THE CODE");
+System.out.println(a * b);
 }
